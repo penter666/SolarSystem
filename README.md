@@ -10,6 +10,6 @@ Contains so far: <br/>
 * Simple graphics and sprite state control. <br/>
 * Keyboard control of the time and Axis. <br/>
   
-![img1](https://i.postimg.cc/YvMLyG4c/Screenshot-626.png)
+![img1](https://i.postimg.cc/Hk70nbdL/Screenshot-626.png)
 
-![img2](https://i.postimg.cc/QHpWbkdk/Screenshot-627.png)
+![img2](https://i.postimg.cc/gk7qGg95/Screenshot-627.png)
